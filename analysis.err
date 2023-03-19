@@ -1,0 +1,192 @@
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Chicago/Milwaukee.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Grand/Milwaukee.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Damen/Milwaukee.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/California/Milwaukee.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/35th/Archer.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Roosevelt/State.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Western/Milwaukee.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/54th/Cermak.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Division/Milwaukee.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/95th/Dan Ryan.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Washington/Wells.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Jackson/Dearborn.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Clark/Division.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Jackson/State.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Adams/Wabash.csv'
+Traceback (most recent call last):
+  File "station_script.py", line 28, in <module>
+    index=None)
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/core/generic.py", line 3482, in to_csv
+    storage_options=storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 243, in save
+    storage_options=self.storage_options,
+  File "/software/python-anaconda-2020.02-el7-x86_64/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'output/Clark/Lake.csv'
