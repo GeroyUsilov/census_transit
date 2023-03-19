@@ -3,7 +3,7 @@
 #SBATCH --output=analysis.out
 #SBATCH --error=analysis.err
 #SBATCH --account=pi-amurugan
-#SBATCH --time=00:1:50
+#SBATCH --time=00:2:50
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --mem-per-cpu=1500
