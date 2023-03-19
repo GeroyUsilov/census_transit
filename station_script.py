@@ -23,6 +23,6 @@ for i in range(len(cook)):
 
 pd.DataFrame(np.array([station_name, 
                        station_id, 
-                       total_walkshed])).to_csv("output/" +station_name +  ".csv", 
+                       total_walkshed])).to_csv("output/" +station_id +  ".csv", 
                                                                           header=None, 
                                                                           index=None)
